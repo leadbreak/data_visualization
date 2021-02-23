@@ -1,6 +1,6 @@
 # This is the process of trying a new module - streamlit.
 This module is not yet complete, but it is easy to link the data received through the API to instantly turn it into web app,
- and the visualization function is also good.
+and the visualization function is also good with a remarkable small code.
 
 ### At first, I referred to the YouTube channel : https://www.youtube.com/watch?v=JLVB8ZUPojw
 ### The results are interactive, and they are roughly as below :
